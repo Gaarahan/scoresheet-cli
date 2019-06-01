@@ -1,5 +1,5 @@
 let sinon = require("sinon");
-let main = require("../lib/main");
+let main = require("../main/main");
 
 describe('main()', () => {
 
