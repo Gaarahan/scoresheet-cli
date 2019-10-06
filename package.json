@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "cli-interact": "^0.1.9"
+    "cli-interact": "^0.1.9",
+    "inquirer": "^6.3.1"
   }
 }

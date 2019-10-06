@@ -1,3 +1,3 @@
-const main = require('./main/main');
+const {showMenu, resolveAndOpenNextMenu}= require('./main/main');
 
-main();
+showMenu(resolveAndOpenNextMenu);
